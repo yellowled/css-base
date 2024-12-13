@@ -1,0 +1,26 @@
+{
+    "name": "css-base",
+    "version": "0.1.0",
+    "description": "Re-usable CSS",
+    "main": "src/index.css",
+    "scripts": {
+        "prettier": "prettier -c src/*.css",
+        "stylelint": "stylelint src/*.css",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yellowled/css-base.git"
+    },
+    "author": "Matthias Mees <mm@yellowled.de> (https://github.com/yellowled)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yellowled/css-base/issues"
+    },
+    "homepage": "https://github.com/yellowled/css-base#readme",
+    "devDependencies": {
+        "prettier": "^3.4.2",
+        "stylelint": "^16.11.0",
+        "stylelint-config-standard": "^36.0.1"
+    }
+}
