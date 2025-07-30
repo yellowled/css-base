@@ -180,12 +180,12 @@ select {
     height: calc(1.5em + 0.75rem + 2px);
     line-height: 1.5;
     margin: 0 0 1rem;
+    overflow-wrap: normal;
     padding: var(--padding-block) calc(var(--padding-inline) + 1rem)
         var(--padding-block) var(--padding-inline);
     text-transform: none;
     vertical-align: middle;
     width: 100%;
-    word-wrap: normal;
 }
 
 select:focus {
