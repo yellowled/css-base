@@ -20,7 +20,7 @@
     "homepage": "https://github.com/yellowled/css-base#readme",
     "devDependencies": {
         "prettier": "^3.6.2",
-        "stylelint": "^16.23.1",
+        "stylelint": "^16.24.0",
         "stylelint-config-standard": "^39.0.0"
     }
 }
